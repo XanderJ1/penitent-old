@@ -1099,6 +1099,7 @@ header {
 .editorial-hero {
   position: relative;
   overflow: hidden;
+  margin-top: clamp(48px, 7vw, 112px);
   padding-top: 24px;
 }
 .campaign-heading {
