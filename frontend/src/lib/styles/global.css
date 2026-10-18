@@ -1206,22 +1206,45 @@ header {
 .editorial-statement {
   padding: 110px 5%;
   display: grid;
-  grid-template-columns: 1fr 2fr;
-  gap: 24px;
+  grid-template-columns: 1.1fr 1fr;
+  grid-template-rows: auto auto 1fr;
+  column-gap: 7%;
+  row-gap: 24px;
+  align-items: start;
 }
 .editorial-statement .eyebrow {
-  grid-column: 1 / -1;
+  grid-column: 1;
 }
 .editorial-statement h2 {
-  font-size: clamp(44px, 6.5vw, 100px);
+  font-size: clamp(44px, 5vw, 76px);
   line-height: 1.02;
   letter-spacing: -0.07em;
-  grid-column: 1 / -1;
+  grid-column: 1;
 }
 .editorial-statement > div {
-  grid-column: 2;
+  grid-column: 1;
   max-width: 360px;
   margin: 18px 0;
+}
+.statement-photo {
+  grid-column: 2;
+  grid-row: 1 / 4;
+  width: 100%;
+  height: 100%;
+  min-height: 460px;
+  max-height: 650px;
+  object-fit: cover;
+}
+@media (max-width: 800px) {
+  .editorial-statement { grid-template-columns: 1fr; }
+  .editorial-statement .statement-photo {
+    grid-column: 1;
+    grid-row: auto;
+    height: auto;
+    min-height: 0;
+    max-height: none;
+    aspect-ratio: 4 / 5;
+  }
 }
 .editorial-statement > div p {
   font-size: 18px;
@@ -1451,6 +1474,9 @@ footer p:not(.wordmark),
   }
   .editorial-statement > div p {
     font-size: 16px;
+  }
+  .editorial-statement .statement-photo {
+    margin-top: 32px;
   }
   .editorial-products {
     padding: 30px 20px 60px;

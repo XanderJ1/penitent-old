@@ -1,5 +1,5 @@
 <script lang="ts">
-  const image = '/images/photo-1660486044177-45cd45bb5e99.jpg';
+  const image = '/images/photo-1523398002811-999ca8dec234.jpg';
 </script>
 
 <section class="street-hero" aria-labelledby="street-title">

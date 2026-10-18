@@ -58,6 +58,14 @@
     </p>
     <a class="text-link" href="/story">The PENITENT perspective</a>
   </div>
+  <img
+    class="statement-photo"
+    src="/images/photo-1590330297626-d7aff25a0431.jpg"
+    alt="Relaxed black streetwear styled on city steps"
+    width="1000"
+    height="1250"
+    loading="lazy"
+  />
 </section>
 
 <section class="section editorial-products">
