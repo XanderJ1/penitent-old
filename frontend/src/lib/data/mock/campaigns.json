@@ -1,0 +1,72 @@
+[
+  {
+    "label": "Everyday / 01",
+    "href": "/shop?category=t-shirts",
+    "images": [
+      {
+        "url": "/images/photo-1523398002811-999ca8dec234.jpg",
+        "alt": "Streetwear in the city"
+      },
+      {
+        "url": "/images/photo-1594035795072-3fcd236b7d83.jpg",
+        "alt": "Streetwear in the city"
+      }
+    ]
+  },
+  {
+    "label": "Quiet confidence",
+    "href": "/shop?category=hoodies",
+    "images": [
+      {
+        "url": "/images/photo-1590330297626-d7aff25a0431.jpg",
+        "alt": "Relaxed layers and everyday movement"
+      },
+      {
+        "url": "/images/photo-1624223237138-21a37e61dec0.jpg",
+        "alt": "Relaxed layers and everyday movement"
+      }
+    ]
+  },
+  {
+    "label": "Becoming / Chapter 01",
+    "href": "/collections/becoming",
+    "images": [
+      {
+        "url": "/images/photo-1742832599361-7aa7decd73b4.jpg",
+        "alt": "Chapter 01 — expressive portraiture"
+      },
+      {
+        "url": "/images/photo-1774413769417-29fde33e368b.jpg",
+        "alt": "Chapter 01 — expressive portraiture"
+      }
+    ]
+  },
+  {
+    "label": "Room to move",
+    "href": "/shop?category=trousers",
+    "images": [
+      {
+        "url": "/images/photo-1787682912838-4d0edf47cfbe.jpg",
+        "alt": "Oversized silhouettes and denim"
+      },
+      {
+        "url": "/images/photo-1752159140408-906317c0fa6c.jpg",
+        "alt": "Oversized silhouettes and denim"
+      }
+    ]
+  },
+  {
+    "label": "The unfinished",
+    "href": "/story",
+    "images": [
+      {
+        "url": "/images/photo-1582164256364-b0eccb922bff.jpg",
+        "alt": "Independent style, individual stories"
+      },
+      {
+        "url": "/images/photo-1624338618005-0a93e308abae.jpg",
+        "alt": "Independent style, individual stories"
+      }
+    ]
+  }
+]

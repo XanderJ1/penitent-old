@@ -1,0 +1,1457 @@
+{
+  "options": {
+    "categories": [
+      {
+        "id": 1,
+        "name": "T-shirts",
+        "slug": "t-shirts"
+      },
+      {
+        "id": 2,
+        "name": "Hoodies",
+        "slug": "hoodies"
+      },
+      {
+        "id": 3,
+        "name": "Trousers",
+        "slug": "trousers"
+      }
+    ],
+    "collections": [
+      {
+        "slug": "becoming",
+        "name": "Chapter 01 — Becoming",
+        "story": "For the versions of ourselves we have yet to meet. Everyday clothing, made with intention.",
+        "id": 1
+      }
+    ],
+    "sizes": [
+      {
+        "id": 1,
+        "name": "S",
+        "sortOrder": 0
+      },
+      {
+        "id": 2,
+        "name": "M",
+        "sortOrder": 1
+      },
+      {
+        "id": 3,
+        "name": "L",
+        "sortOrder": 2
+      },
+      {
+        "id": 4,
+        "name": "XL",
+        "sortOrder": 3
+      }
+    ],
+    "colours": [
+      {
+        "name": "Ink",
+        "hex": "#202020",
+        "id": 1
+      },
+      {
+        "name": "Bone",
+        "hex": "#ded7cb",
+        "id": 2
+      }
+    ]
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Quiet Hours Tee",
+      "slug": "quiet-hours-tee",
+      "category": "T-shirts",
+      "collectionSlugs": [
+        "becoming"
+      ],
+      "description": "A considered everyday silhouette. Understated details, generous proportions, and room to be yourself. Part of Chapter 01: Becoming.",
+      "material": "100% cotton. Substantial hand feel.",
+      "care": "Cold wash inside out. Line dry. Do not bleach.",
+      "priceCents": 4500,
+      "published": true,
+      "images": [
+        {
+          "url": "/images/photo-1594035795072-3fcd236b7d83.jpg",
+          "alt": "Quiet Hours Tee — illustrative streetwear photograph",
+          "colourId": null
+        }
+      ],
+      "variants": [
+        {
+          "id": 101,
+          "sku": "PN-01-Ink-S",
+          "size": "S",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 8,
+          "sizeId": 1,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 102,
+          "sku": "PN-01-Ink-M",
+          "size": "M",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 8,
+          "sizeId": 2,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 103,
+          "sku": "PN-01-Ink-L",
+          "size": "L",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 8,
+          "sizeId": 3,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 104,
+          "sku": "PN-01-Ink-XL",
+          "size": "XL",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 0,
+          "sizeId": 4,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 111,
+          "sku": "PN-01-Bone-S",
+          "size": "S",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 8,
+          "sizeId": 1,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 112,
+          "sku": "PN-01-Bone-M",
+          "size": "M",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 8,
+          "sizeId": 2,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 113,
+          "sku": "PN-01-Bone-L",
+          "size": "L",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 8,
+          "sizeId": 3,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 114,
+          "sku": "PN-01-Bone-XL",
+          "size": "XL",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 0,
+          "sizeId": 4,
+          "colourId": 2,
+          "version": 1
+        }
+      ],
+      "categoryId": 1,
+      "categorySlug": "t-shirts",
+      "collectionIds": [
+        1
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Afterimage Tee",
+      "slug": "afterimage-tee",
+      "category": "T-shirts",
+      "collectionSlugs": [
+        "becoming"
+      ],
+      "description": "A considered everyday silhouette. Understated details, generous proportions, and room to be yourself. Part of Chapter 01: Becoming.",
+      "material": "100% cotton. Substantial hand feel.",
+      "care": "Cold wash inside out. Line dry. Do not bleach.",
+      "priceCents": 5000,
+      "published": true,
+      "images": [
+        {
+          "url": "/images/photo-1523398002811-999ca8dec234.jpg",
+          "alt": "Afterimage Tee — illustrative streetwear photograph",
+          "colourId": null
+        }
+      ],
+      "variants": [
+        {
+          "id": 201,
+          "sku": "PN-02-Ink-S",
+          "size": "S",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 9,
+          "sizeId": 1,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 202,
+          "sku": "PN-02-Ink-M",
+          "size": "M",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 9,
+          "sizeId": 2,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 203,
+          "sku": "PN-02-Ink-L",
+          "size": "L",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 9,
+          "sizeId": 3,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 204,
+          "sku": "PN-02-Ink-XL",
+          "size": "XL",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 9,
+          "sizeId": 4,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 211,
+          "sku": "PN-02-Bone-S",
+          "size": "S",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 9,
+          "sizeId": 1,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 212,
+          "sku": "PN-02-Bone-M",
+          "size": "M",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 9,
+          "sizeId": 2,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 213,
+          "sku": "PN-02-Bone-L",
+          "size": "L",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 9,
+          "sizeId": 3,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 214,
+          "sku": "PN-02-Bone-XL",
+          "size": "XL",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 9,
+          "sizeId": 4,
+          "colourId": 2,
+          "version": 1
+        }
+      ],
+      "categoryId": 1,
+      "categorySlug": "t-shirts",
+      "collectionIds": [
+        1
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Essential Heavyweight Tee",
+      "slug": "essential-heavyweight-tee",
+      "category": "T-shirts",
+      "collectionSlugs": [
+        "becoming"
+      ],
+      "description": "A considered everyday silhouette. Understated details, generous proportions, and room to be yourself. Part of Chapter 01: Becoming.",
+      "material": "100% cotton. Substantial hand feel.",
+      "care": "Cold wash inside out. Line dry. Do not bleach.",
+      "priceCents": 5500,
+      "published": true,
+      "images": [
+        {
+          "url": "/images/photo-1774413769417-29fde33e368b.jpg",
+          "alt": "Essential Heavyweight Tee — illustrative streetwear photograph",
+          "colourId": null
+        }
+      ],
+      "variants": [
+        {
+          "id": 301,
+          "sku": "PN-03-Ink-S",
+          "size": "S",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 10,
+          "sizeId": 1,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 302,
+          "sku": "PN-03-Ink-M",
+          "size": "M",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 10,
+          "sizeId": 2,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 303,
+          "sku": "PN-03-Ink-L",
+          "size": "L",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 10,
+          "sizeId": 3,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 304,
+          "sku": "PN-03-Ink-XL",
+          "size": "XL",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 10,
+          "sizeId": 4,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 311,
+          "sku": "PN-03-Bone-S",
+          "size": "S",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 10,
+          "sizeId": 1,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 312,
+          "sku": "PN-03-Bone-M",
+          "size": "M",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 10,
+          "sizeId": 2,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 313,
+          "sku": "PN-03-Bone-L",
+          "size": "L",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 10,
+          "sizeId": 3,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 314,
+          "sku": "PN-03-Bone-XL",
+          "size": "XL",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 10,
+          "sizeId": 4,
+          "colourId": 2,
+          "version": 1
+        }
+      ],
+      "categoryId": 1,
+      "categorySlug": "t-shirts",
+      "collectionIds": [
+        1
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Still Life Tee",
+      "slug": "still-life-tee",
+      "category": "T-shirts",
+      "collectionSlugs": [
+        "becoming"
+      ],
+      "description": "A considered everyday silhouette. Understated details, generous proportions, and room to be yourself. Part of Chapter 01: Becoming.",
+      "material": "100% cotton. Substantial hand feel.",
+      "care": "Cold wash inside out. Line dry. Do not bleach.",
+      "priceCents": 6000,
+      "published": true,
+      "images": [
+        {
+          "url": "/images/photo-1624338618005-0a93e308abae.jpg",
+          "alt": "Still Life Tee — illustrative streetwear photograph",
+          "colourId": null
+        }
+      ],
+      "variants": [
+        {
+          "id": 401,
+          "sku": "PN-04-Ink-S",
+          "size": "S",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 11,
+          "sizeId": 1,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 402,
+          "sku": "PN-04-Ink-M",
+          "size": "M",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 11,
+          "sizeId": 2,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 403,
+          "sku": "PN-04-Ink-L",
+          "size": "L",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 11,
+          "sizeId": 3,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 404,
+          "sku": "PN-04-Ink-XL",
+          "size": "XL",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 11,
+          "sizeId": 4,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 411,
+          "sku": "PN-04-Bone-S",
+          "size": "S",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 11,
+          "sizeId": 1,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 412,
+          "sku": "PN-04-Bone-M",
+          "size": "M",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 11,
+          "sizeId": 2,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 413,
+          "sku": "PN-04-Bone-L",
+          "size": "L",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 11,
+          "sizeId": 3,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 414,
+          "sku": "PN-04-Bone-XL",
+          "size": "XL",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 11,
+          "sizeId": 4,
+          "colourId": 2,
+          "version": 1
+        }
+      ],
+      "categoryId": 1,
+      "categorySlug": "t-shirts",
+      "collectionIds": [
+        1
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Solitude Hoodie",
+      "slug": "solitude-hoodie",
+      "category": "Hoodies",
+      "collectionSlugs": [
+        "becoming"
+      ],
+      "description": "A considered everyday silhouette. Understated details, generous proportions, and room to be yourself. Part of Chapter 01: Becoming.",
+      "material": "100% cotton. Substantial hand feel.",
+      "care": "Cold wash inside out. Line dry. Do not bleach.",
+      "priceCents": 9500,
+      "published": true,
+      "images": [
+        {
+          "url": "/images/photo-1590330297626-d7aff25a0431.jpg",
+          "alt": "Solitude Hoodie — illustrative streetwear photograph",
+          "colourId": null
+        }
+      ],
+      "variants": [
+        {
+          "id": 501,
+          "sku": "PN-05-Ink-S",
+          "size": "S",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 12,
+          "sizeId": 1,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 502,
+          "sku": "PN-05-Ink-M",
+          "size": "M",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 12,
+          "sizeId": 2,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 503,
+          "sku": "PN-05-Ink-L",
+          "size": "L",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 12,
+          "sizeId": 3,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 504,
+          "sku": "PN-05-Ink-XL",
+          "size": "XL",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 12,
+          "sizeId": 4,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 511,
+          "sku": "PN-05-Bone-S",
+          "size": "S",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 12,
+          "sizeId": 1,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 512,
+          "sku": "PN-05-Bone-M",
+          "size": "M",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 12,
+          "sizeId": 2,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 513,
+          "sku": "PN-05-Bone-L",
+          "size": "L",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 12,
+          "sizeId": 3,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 514,
+          "sku": "PN-05-Bone-XL",
+          "size": "XL",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 12,
+          "sizeId": 4,
+          "colourId": 2,
+          "version": 1
+        }
+      ],
+      "categoryId": 2,
+      "categorySlug": "hoodies",
+      "collectionIds": [
+        1
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Becoming Hoodie",
+      "slug": "becoming-hoodie",
+      "category": "Hoodies",
+      "collectionSlugs": [
+        "becoming"
+      ],
+      "description": "A considered everyday silhouette. Understated details, generous proportions, and room to be yourself. Part of Chapter 01: Becoming.",
+      "material": "100% cotton. Substantial hand feel.",
+      "care": "Cold wash inside out. Line dry. Do not bleach.",
+      "priceCents": 10000,
+      "published": true,
+      "images": [
+        {
+          "url": "/images/photo-1660486044177-45cd45bb5e99.jpg",
+          "alt": "Becoming Hoodie — illustrative streetwear photograph",
+          "colourId": null
+        }
+      ],
+      "variants": [
+        {
+          "id": 601,
+          "sku": "PN-06-Ink-S",
+          "size": "S",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 8,
+          "sizeId": 1,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 602,
+          "sku": "PN-06-Ink-M",
+          "size": "M",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 8,
+          "sizeId": 2,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 603,
+          "sku": "PN-06-Ink-L",
+          "size": "L",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 8,
+          "sizeId": 3,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 604,
+          "sku": "PN-06-Ink-XL",
+          "size": "XL",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 8,
+          "sizeId": 4,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 611,
+          "sku": "PN-06-Bone-S",
+          "size": "S",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 8,
+          "sizeId": 1,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 612,
+          "sku": "PN-06-Bone-M",
+          "size": "M",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 8,
+          "sizeId": 2,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 613,
+          "sku": "PN-06-Bone-L",
+          "size": "L",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 8,
+          "sizeId": 3,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 614,
+          "sku": "PN-06-Bone-XL",
+          "size": "XL",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 8,
+          "sizeId": 4,
+          "colourId": 2,
+          "version": 1
+        }
+      ],
+      "categoryId": 2,
+      "categorySlug": "hoodies",
+      "collectionIds": [
+        1
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Midnight Hoodie",
+      "slug": "midnight-hoodie",
+      "category": "Hoodies",
+      "collectionSlugs": [
+        "becoming"
+      ],
+      "description": "A considered everyday silhouette. Understated details, generous proportions, and room to be yourself. Part of Chapter 01: Becoming.",
+      "material": "100% cotton. Substantial hand feel.",
+      "care": "Cold wash inside out. Line dry. Do not bleach.",
+      "priceCents": 10500,
+      "published": true,
+      "images": [
+        {
+          "url": "/images/photo-1624223237138-21a37e61dec0.jpg",
+          "alt": "Midnight Hoodie — illustrative streetwear photograph",
+          "colourId": null
+        }
+      ],
+      "variants": [
+        {
+          "id": 701,
+          "sku": "PN-07-Ink-S",
+          "size": "S",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 9,
+          "sizeId": 1,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 702,
+          "sku": "PN-07-Ink-M",
+          "size": "M",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 9,
+          "sizeId": 2,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 703,
+          "sku": "PN-07-Ink-L",
+          "size": "L",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 9,
+          "sizeId": 3,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 704,
+          "sku": "PN-07-Ink-XL",
+          "size": "XL",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 9,
+          "sizeId": 4,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 711,
+          "sku": "PN-07-Bone-S",
+          "size": "S",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 9,
+          "sizeId": 1,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 712,
+          "sku": "PN-07-Bone-M",
+          "size": "M",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 9,
+          "sizeId": 2,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 713,
+          "sku": "PN-07-Bone-L",
+          "size": "L",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 9,
+          "sizeId": 3,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 714,
+          "sku": "PN-07-Bone-XL",
+          "size": "XL",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 9,
+          "sizeId": 4,
+          "colourId": 2,
+          "version": 1
+        }
+      ],
+      "categoryId": 2,
+      "categorySlug": "hoodies",
+      "collectionIds": [
+        1
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Unwritten Hoodie",
+      "slug": "unwritten-hoodie",
+      "category": "Hoodies",
+      "collectionSlugs": [
+        "becoming"
+      ],
+      "description": "A considered everyday silhouette. Understated details, generous proportions, and room to be yourself. Part of Chapter 01: Becoming.",
+      "material": "100% cotton. Substantial hand feel.",
+      "care": "Cold wash inside out. Line dry. Do not bleach.",
+      "priceCents": 11000,
+      "published": true,
+      "images": [
+        {
+          "url": "/images/photo-1752159140408-906317c0fa6c.jpg",
+          "alt": "Unwritten Hoodie — illustrative streetwear photograph",
+          "colourId": null
+        }
+      ],
+      "variants": [
+        {
+          "id": 801,
+          "sku": "PN-08-Ink-S",
+          "size": "S",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 10,
+          "sizeId": 1,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 802,
+          "sku": "PN-08-Ink-M",
+          "size": "M",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 10,
+          "sizeId": 2,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 803,
+          "sku": "PN-08-Ink-L",
+          "size": "L",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 10,
+          "sizeId": 3,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 804,
+          "sku": "PN-08-Ink-XL",
+          "size": "XL",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 10,
+          "sizeId": 4,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 811,
+          "sku": "PN-08-Bone-S",
+          "size": "S",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 10,
+          "sizeId": 1,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 812,
+          "sku": "PN-08-Bone-M",
+          "size": "M",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 10,
+          "sizeId": 2,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 813,
+          "sku": "PN-08-Bone-L",
+          "size": "L",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 10,
+          "sizeId": 3,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 814,
+          "sku": "PN-08-Bone-XL",
+          "size": "XL",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 10,
+          "sizeId": 4,
+          "colourId": 2,
+          "version": 1
+        }
+      ],
+      "categoryId": 2,
+      "categorySlug": "hoodies",
+      "collectionIds": [
+        1
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Everyday Wide Trouser",
+      "slug": "everyday-wide-trouser",
+      "category": "Trousers",
+      "collectionSlugs": [
+        "becoming"
+      ],
+      "description": "A considered everyday silhouette. Understated details, generous proportions, and room to be yourself. Part of Chapter 01: Becoming.",
+      "material": "Cotton twill. Relaxed, structured drape.",
+      "care": "Cold wash inside out. Line dry. Do not bleach.",
+      "priceCents": 7800,
+      "published": true,
+      "images": [
+        {
+          "url": "/images/photo-1787682912838-4d0edf47cfbe.jpg",
+          "alt": "Everyday Wide Trouser — illustrative streetwear photograph",
+          "colourId": null
+        }
+      ],
+      "variants": [
+        {
+          "id": 901,
+          "sku": "PN-09-Ink-S",
+          "size": "S",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 11,
+          "sizeId": 1,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 902,
+          "sku": "PN-09-Ink-M",
+          "size": "M",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 11,
+          "sizeId": 2,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 903,
+          "sku": "PN-09-Ink-L",
+          "size": "L",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 11,
+          "sizeId": 3,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 904,
+          "sku": "PN-09-Ink-XL",
+          "size": "XL",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 11,
+          "sizeId": 4,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 911,
+          "sku": "PN-09-Bone-S",
+          "size": "S",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 11,
+          "sizeId": 1,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 912,
+          "sku": "PN-09-Bone-M",
+          "size": "M",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 11,
+          "sizeId": 2,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 913,
+          "sku": "PN-09-Bone-L",
+          "size": "L",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 11,
+          "sizeId": 3,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 914,
+          "sku": "PN-09-Bone-XL",
+          "size": "XL",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 11,
+          "sizeId": 4,
+          "colourId": 2,
+          "version": 1
+        }
+      ],
+      "categoryId": 3,
+      "categorySlug": "trousers",
+      "collectionIds": [
+        1
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Transit Cargo",
+      "slug": "transit-cargo",
+      "category": "Trousers",
+      "collectionSlugs": [
+        "becoming"
+      ],
+      "description": "A considered everyday silhouette. Understated details, generous proportions, and room to be yourself. Part of Chapter 01: Becoming.",
+      "material": "Cotton twill. Relaxed, structured drape.",
+      "care": "Cold wash inside out. Line dry. Do not bleach.",
+      "priceCents": 8400,
+      "published": true,
+      "images": [
+        {
+          "url": "/images/photo-1624223237138-21a37e61dec0.jpg",
+          "alt": "Transit Cargo — illustrative streetwear photograph",
+          "colourId": null
+        }
+      ],
+      "variants": [
+        {
+          "id": 1001,
+          "sku": "PN-10-Ink-S",
+          "size": "S",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 12,
+          "sizeId": 1,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 1002,
+          "sku": "PN-10-Ink-M",
+          "size": "M",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 12,
+          "sizeId": 2,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 1003,
+          "sku": "PN-10-Ink-L",
+          "size": "L",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 12,
+          "sizeId": 3,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 1004,
+          "sku": "PN-10-Ink-XL",
+          "size": "XL",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 12,
+          "sizeId": 4,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 1011,
+          "sku": "PN-10-Bone-S",
+          "size": "S",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 12,
+          "sizeId": 1,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 1012,
+          "sku": "PN-10-Bone-M",
+          "size": "M",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 12,
+          "sizeId": 2,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 1013,
+          "sku": "PN-10-Bone-L",
+          "size": "L",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 12,
+          "sizeId": 3,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 1014,
+          "sku": "PN-10-Bone-XL",
+          "size": "XL",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 12,
+          "sizeId": 4,
+          "colourId": 2,
+          "version": 1
+        }
+      ],
+      "categoryId": 3,
+      "categorySlug": "trousers",
+      "collectionIds": [
+        1
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Soft Structure Trouser",
+      "slug": "soft-structure-trouser",
+      "category": "Trousers",
+      "collectionSlugs": [
+        "becoming"
+      ],
+      "description": "A considered everyday silhouette. Understated details, generous proportions, and room to be yourself. Part of Chapter 01: Becoming.",
+      "material": "Cotton twill. Relaxed, structured drape.",
+      "care": "Cold wash inside out. Line dry. Do not bleach.",
+      "priceCents": 9000,
+      "published": true,
+      "images": [
+        {
+          "url": "/images/photo-1660486044177-45cd45bb5e99.jpg",
+          "alt": "Soft Structure Trouser — illustrative streetwear photograph",
+          "colourId": null
+        }
+      ],
+      "variants": [
+        {
+          "id": 1101,
+          "sku": "PN-11-Ink-S",
+          "size": "S",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 8,
+          "sizeId": 1,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 1102,
+          "sku": "PN-11-Ink-M",
+          "size": "M",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 8,
+          "sizeId": 2,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 1103,
+          "sku": "PN-11-Ink-L",
+          "size": "L",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 8,
+          "sizeId": 3,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 1104,
+          "sku": "PN-11-Ink-XL",
+          "size": "XL",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 8,
+          "sizeId": 4,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 1111,
+          "sku": "PN-11-Bone-S",
+          "size": "S",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 8,
+          "sizeId": 1,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 1112,
+          "sku": "PN-11-Bone-M",
+          "size": "M",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 8,
+          "sizeId": 2,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 1113,
+          "sku": "PN-11-Bone-L",
+          "size": "L",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 8,
+          "sizeId": 3,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 1114,
+          "sku": "PN-11-Bone-XL",
+          "size": "XL",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 8,
+          "sizeId": 4,
+          "colourId": 2,
+          "version": 1
+        }
+      ],
+      "categoryId": 3,
+      "categorySlug": "trousers",
+      "collectionIds": [
+        1
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Nightfall Trouser",
+      "slug": "nightfall-trouser",
+      "category": "Trousers",
+      "collectionSlugs": [
+        "becoming"
+      ],
+      "description": "A considered everyday silhouette. Understated details, generous proportions, and room to be yourself. Part of Chapter 01: Becoming.",
+      "material": "Cotton twill. Relaxed, structured drape.",
+      "care": "Cold wash inside out. Line dry. Do not bleach.",
+      "priceCents": 9600,
+      "published": true,
+      "images": [
+        {
+          "url": "/images/photo-1516257984-b1b4d707412e.jpg",
+          "alt": "Nightfall Trouser — illustrative streetwear photograph",
+          "colourId": null
+        }
+      ],
+      "variants": [
+        {
+          "id": 1201,
+          "sku": "PN-12-Ink-S",
+          "size": "S",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 9,
+          "sizeId": 1,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 1202,
+          "sku": "PN-12-Ink-M",
+          "size": "M",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 9,
+          "sizeId": 2,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 1203,
+          "sku": "PN-12-Ink-L",
+          "size": "L",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 9,
+          "sizeId": 3,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 1204,
+          "sku": "PN-12-Ink-XL",
+          "size": "XL",
+          "colour": "Ink",
+          "hex": "#202020",
+          "stock": 9,
+          "sizeId": 4,
+          "colourId": 1,
+          "version": 1
+        },
+        {
+          "id": 1211,
+          "sku": "PN-12-Bone-S",
+          "size": "S",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 9,
+          "sizeId": 1,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 1212,
+          "sku": "PN-12-Bone-M",
+          "size": "M",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 9,
+          "sizeId": 2,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 1213,
+          "sku": "PN-12-Bone-L",
+          "size": "L",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 9,
+          "sizeId": 3,
+          "colourId": 2,
+          "version": 1
+        },
+        {
+          "id": 1214,
+          "sku": "PN-12-Bone-XL",
+          "size": "XL",
+          "colour": "Bone",
+          "hex": "#ded7cb",
+          "stock": 9,
+          "sizeId": 4,
+          "colourId": 2,
+          "version": 1
+        }
+      ],
+      "categoryId": 3,
+      "categorySlug": "trousers",
+      "collectionIds": [
+        1
+      ]
+    }
+  ]
+}

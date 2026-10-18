@@ -7,7 +7,6 @@
     "build": "vite build",
     "start": "node build",
     "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
-    "generate:api": "node ../tools/node_modules/openapi-typescript/bin/cli.js http://localhost:5080/openapi/v1.json -o src/lib/generated/api.d.ts && prettier --write src/lib/generated/api.d.ts",
     "test": "playwright test"
   },
   "devDependencies": {
@@ -25,5 +24,8 @@
   },
   "imports": {
     "#lib/*": "./src/lib/*"
+  },
+  "dependencies": {
+    "bootstrap-icons": "^1.13.2"
   }
 }
